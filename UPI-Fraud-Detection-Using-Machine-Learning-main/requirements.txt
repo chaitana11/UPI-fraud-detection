@@ -2,5 +2,7 @@ altair
 numpy
 pandas
 streamlit
-datetime
 xgboost
+shap
+matplotlib
+openpyxl
