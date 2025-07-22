@@ -1,0 +1,11 @@
+Amount,Date,Transaction_Type,Payment_Gateway,Transaction_State,Merchant_Category,isFraud
+39.68,31-05-2023,Other,HDFC,Himachal Pradesh,Financial services and Taxes,0
+26.89,19-01-2024,Bill Payment,HDFC,Arunachal Pradesh,Financial services and Taxes,0
+17.25,18-09-2023,Other,HDFC,Odisha,Utilities,0
+35.72,18-08-2023,Other,HDFC,West Bengal,Other,1
+25.81,02-06-2023,Payment,IDFC UPI,Punjab,Utilities,0
+48.1,05-07-2024,Payment,Paytm,Delhi,Groceries,0
+50,10-06-2023,Bill Payment,PhonePe,Maharashtra,Financial services and Taxes,0
+19.99,15-05-2024,Other,ICICI,Tamil Nadu,Utilities,0
+60.23,01-01-2024,Payment,Paytm,Kerala,Other,1
+31.45,25-04-2024,Bill Payment,PhonePe,Karnataka,Financial services and Taxes,1
