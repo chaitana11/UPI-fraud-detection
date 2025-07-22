@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 
 # Load model
-pickle_file_path = "UPI Fraud Detection Final.pkl"
+pickle_file_path = "model.pkl"
 loaded_model = pickle.load(open(pickle_file_path, 'rb'))
 
 
